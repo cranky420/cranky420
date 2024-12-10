@@ -1,5 +1,3 @@
-
-preview
 <h1 align="center">Hi 👋, I'm Bijay</h1>
 <h3 align="center">A passionate devops engineer from India</h3>
 
